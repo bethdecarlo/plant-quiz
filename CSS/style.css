@@ -85,3 +85,12 @@ li {
 li:nth-child(odd) {
   background-color: #dfdae7;
 }
+
+footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Oswald" , sans-serif;
+  text-align: center;
+  color:lightslategray;
+  font-size: 10px;
+}
